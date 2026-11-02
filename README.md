@@ -6,8 +6,6 @@ weekly until the end of the semester, with the room as the location.
 
 Pure Python. No libraries to install.
 
-![screenshot](screenshot.png)
-
 ## How it works
 
 ```
